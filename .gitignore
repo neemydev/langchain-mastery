@@ -1,0 +1,13 @@
+# uv / python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# secrets
+.env
+.env.*
+
+# os junk
+.DS_Store
+Thumbs.db
