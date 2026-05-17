@@ -1,0 +1,24 @@
+Restaurant Menu
+================
+
+Appetizers
+----------
+1. Garlic Bread - Toasted baguette slices brushed with garlic butter and herbs. - $5.99
+2. Chicken Wings - Crispy fried wings tossed in spicy buffalo sauce. - $8.49
+3. Paneer Tikka - Marinated paneer cubes grilled with bell peppers and onions. - $7.99
+
+Main Course
+-----------
+4. Margherita Pizza - Classic pizza with fresh mozzarella, tomato sauce, and basil. - $12.99
+5. Butter Chicken - Tender chicken simmered in a creamy tomato and butter gravy. - $14.49
+6. Veg Biryani - Fragrant basmati rice cooked with mixed vegetables and aromatic spices. - $11.99
+7. Grilled Salmon - Atlantic salmon fillet served with lemon butter sauce and steamed vegetables. - $17.99
+
+Desserts
+--------
+8. Chocolate Lava Cake - Warm chocolate cake with a molten center, served with vanilla ice cream. - $6.49
+9. Gulab Jamun - Soft milk dumplings soaked in rose-flavored sugar syrup. - $4.99
+
+Beverages
+---------
+10. Mango Lassi - Chilled yogurt drink blended with ripe mangoes and a hint of cardamom. - $3.99
